@@ -10,7 +10,7 @@
 
 Today, we're going to build an Express app to search spotify for artists, albums, and tracks. In addition, we'll be able to play a preview of some of these songs.
 
-It may seem like a lot, but let's break it down into steps!
+It may seem like a lot, but let's break it down into steps!!
 
 
 ### `spotify-web-api-node`
